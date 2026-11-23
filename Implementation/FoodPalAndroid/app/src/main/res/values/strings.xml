@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FoodPal</string>
+    <string name="spalshscreensub">Discover authentic Nepali flavors, momos, dal bhat, and traditional delights delivered fresh to your door.</string>
+    <string name="google_maps_key" translatable="false">AIzaSyBKYge0ySHtQVdQ-gseXC6daaAUO6Z9R7w</string>
+    <string name="khalti_public_key" translatable="false">004fc7717a4b48eaaa1cd7d849bb4be7</string>
+</resources>

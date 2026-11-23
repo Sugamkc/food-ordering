@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "354444389942",
+    "firebase_url": "https://foodpal-71bdb-default-rtdb.firebaseio.com",
+    "project_id": "foodpal-71bdb",
+    "storage_bucket": "foodpal-71bdb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354444389942:android:b1be0023c018773b0d7297",
+        "android_client_info": {
+          "package_name": "com.example.foodordering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354444389942-ung00vv5gahn81k7peaoviouhcj36g17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU-S7Ry6J87b1967IArWCGOhzKp0l_xS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354444389942-ung00vv5gahn81k7peaoviouhcj36g17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
